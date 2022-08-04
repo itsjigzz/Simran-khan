@@ -1,0 +1,99 @@
+body {
+  text-align: center;
+}
+
+#title {
+  background-image: url(https://img.freepik.com/free-vector/space-game-background-neon-night-alien-landscape_107791-1624.jpg?w=1380&t=st=1659362834~exp=1659363434~hmac=e409de3562511375438d9169dbf8f5036969cf5a7a2b17cc87f5d5b58e7731c7);
+  text-align: left;
+  color: #fff;
+  padding-bottom: 4.8%
+
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+font-family: 'Cormorant Garamond-bold';
+  font-size: 1.8rem;
+  line-height: 1;
+  color: #fff;
+  font-style: italic;
+
+}
+
+.navbar {
+  background-color: transparent;
+  padding: 1.5rem
+}
+
+.navbar-brand {
+font-family: 'Allura';
+  font-size: 3.5rem;
+  color: #fff;
+  padding: 0 0 0;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.title-image {
+  width: 50%;
+  border-radius: 70%;
+  grid-column: 20;
+text-align: right;
+background-color: #000;
+
+}
+
+
+#about-me {
+  text-align: right;
+}
+
+.about-me-image {
+  width: 100%;
+  padding: 6rem 0 0;
+  background-color:
+
+}
+
+h3 {
+   font-family: 'Allura';
+   font-size: 6rem;
+}
+
+p {
+  font-size: 1.7rem;
+  font-variant: inherit;
+}
+
+#work {
+  text-align: left;
+  text-decoration: inherit;
+}
+
+#hobbies {
+  text-align: center;
+}
+
+.logo {
+  width: 22%;
+}
+
+footer {
+  background-image: url(https://img.freepik.com/free-vector/fantasy-alien-planet-landscape-space-game-vector_107791-13259.jpg?w=1380&t=st=1659373653~exp=1659374253~hmac=38c8ec556fdf1476138f2a74326a552bdcfe2f1369ad318b26be077e048dd9e4);
+padding-bottom: 8%;
+padding-top: 0;
+
+}
+
+h4 {
+  padding-top: 10%;
+  font-family: 'Cormorant';
+  color: #fff;
+  font-style: italic;
+  font-size: 2rem;
+}
